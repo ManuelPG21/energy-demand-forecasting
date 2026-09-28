@@ -1,5 +1,7 @@
 # Colombian Electricity Demand Forecasting
 
+> **Personal project.** Built independently in my own time with public data. It is not affiliated with, commissioned by, or derived from any employer, client or academic institution.
+
 14-day-ahead forecasts of **daily national electricity demand in Colombia**, built on real hourly data from
 [XM](https://www.xm.com.co/) (the national grid operator) for Jan 2019 - Aug 2026.
 
@@ -72,4 +74,4 @@ tests/          leakage, holiday, metric and coverage tests
 
 ## Author
 
-Manuel Alejandro Polo González · [Portfolio](https://manuelpg21.github.io/data-ml-portfolio/) · [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-p-339754118)
+Manuel Alejandro Polo González · [LinkedIn](https://www.linkedin.com/in/manuel-alejandro-p-339754118)
